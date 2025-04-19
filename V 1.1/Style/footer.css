@@ -1,0 +1,15 @@
+footer {
+  height: 60px;
+  background-color: black;
+  color: aliceblue;
+}
+
+.Designer {
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+  position: relative;
+  top: 18px;
+}
